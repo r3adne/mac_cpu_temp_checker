@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>38581BAB-9A89-4997-B3A6-76C83C830A25</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>38581BAB-9A89-4997-B3A6-76C83C830A25.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cputemp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cputemp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build cputemp</string>
+			<key>timeStartedRecording</key>
+			<real>628946143.22146201</real>
+			<key>timeStoppedRecording</key>
+			<real>628946143.66533005</real>
+			<key>title</key>
+			<string>Build cputemp</string>
+			<key>uniqueIdentifier</key>
+			<string>38581BAB-9A89-4997-B3A6-76C83C830A25</string>
+		</dict>
+		<key>3952BCC5-23D0-4E86-9789-A30D3171EFF1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3952BCC5-23D0-4E86-9789-A30D3171EFF1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cputemp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cputemp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Clean cputemp</string>
+			<key>timeStartedRecording</key>
+			<real>628946272.13608801</real>
+			<key>timeStoppedRecording</key>
+			<real>628946272.16322505</real>
+			<key>title</key>
+			<string>Clean cputemp</string>
+			<key>uniqueIdentifier</key>
+			<string>3952BCC5-23D0-4E86-9789-A30D3171EFF1</string>
+		</dict>
+		<key>672EEA6F-ADE5-42F7-9A9A-774565FAFD06</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>672EEA6F-ADE5-42F7-9A9A-774565FAFD06.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cputemp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cputemp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Clean cputemp</string>
+			<key>timeStartedRecording</key>
+			<real>628946271.46758699</real>
+			<key>timeStoppedRecording</key>
+			<real>628946271.568313</real>
+			<key>title</key>
+			<string>Clean cputemp</string>
+			<key>uniqueIdentifier</key>
+			<string>672EEA6F-ADE5-42F7-9A9A-774565FAFD06</string>
+		</dict>
+		<key>874B7E4D-EA68-4030-B0D5-9366BAB7DF37</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>874B7E4D-EA68-4030-B0D5-9366BAB7DF37.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cputemp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cputemp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build cputemp</string>
+			<key>timeStartedRecording</key>
+			<real>628946090.36030996</real>
+			<key>timeStoppedRecording</key>
+			<real>628946090.49916303</real>
+			<key>title</key>
+			<string>Build cputemp</string>
+			<key>uniqueIdentifier</key>
+			<string>874B7E4D-EA68-4030-B0D5-9366BAB7DF37</string>
+		</dict>
+		<key>96968DD4-8EED-4637-B2E7-2B904A0ED005</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>96968DD4-8EED-4637-B2E7-2B904A0ED005.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cputemp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cputemp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build cputemp</string>
+			<key>timeStartedRecording</key>
+			<real>628946174.77744305</real>
+			<key>timeStoppedRecording</key>
+			<real>628946175.26736605</real>
+			<key>title</key>
+			<string>Build cputemp</string>
+			<key>uniqueIdentifier</key>
+			<string>96968DD4-8EED-4637-B2E7-2B904A0ED005</string>
+		</dict>
+		<key>98EF7EE5-A279-4EC3-8D85-2063BE610037</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>98EF7EE5-A279-4EC3-8D85-2063BE610037.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cputemp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cputemp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build cputemp</string>
+			<key>timeStartedRecording</key>
+			<real>628946119.40170205</real>
+			<key>timeStoppedRecording</key>
+			<real>628946119.46766996</real>
+			<key>title</key>
+			<string>Build cputemp</string>
+			<key>uniqueIdentifier</key>
+			<string>98EF7EE5-A279-4EC3-8D85-2063BE610037</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

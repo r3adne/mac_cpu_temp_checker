@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>1397A977-6BFB-4CB7-8225-16F6E2E4401C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1397A977-6BFB-4CB7-8225-16F6E2E4401C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cputemp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cputemp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug cputemp</string>
+			<key>timeStartedRecording</key>
+			<real>628946090.39912295</real>
+			<key>timeStoppedRecording</key>
+			<real>628946091.80064905</real>
+			<key>title</key>
+			<string>Debug cputemp</string>
+			<key>uniqueIdentifier</key>
+			<string>1397A977-6BFB-4CB7-8225-16F6E2E4401C</string>
+		</dict>
+		<key>20857806-00E3-46FE-A27D-36733F2E6985</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>20857806-00E3-46FE-A27D-36733F2E6985.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cputemp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cputemp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug cputemp</string>
+			<key>timeStartedRecording</key>
+			<real>628946119.446334</real>
+			<key>timeStoppedRecording</key>
+			<real>628946124.13719499</real>
+			<key>title</key>
+			<string>Debug cputemp</string>
+			<key>uniqueIdentifier</key>
+			<string>20857806-00E3-46FE-A27D-36733F2E6985</string>
+		</dict>
+		<key>7B299D28-8D9B-481A-96CC-FE79F38AE4F8</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7B299D28-8D9B-481A-96CC-FE79F38AE4F8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cputemp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cputemp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug cputemp</string>
+			<key>timeStartedRecording</key>
+			<real>628946175.21206701</real>
+			<key>timeStoppedRecording</key>
+			<real>628946176.44626498</real>
+			<key>title</key>
+			<string>Debug cputemp</string>
+			<key>uniqueIdentifier</key>
+			<string>7B299D28-8D9B-481A-96CC-FE79F38AE4F8</string>
+		</dict>
+		<key>FA1F43C2-01FD-47C9-9B46-F4E20680E8A7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FA1F43C2-01FD-47C9-9B46-F4E20680E8A7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cputemp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cputemp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug cputemp</string>
+			<key>timeStartedRecording</key>
+			<real>628946143.61521101</real>
+			<key>timeStoppedRecording</key>
+			<real>628946144.99560595</real>
+			<key>title</key>
+			<string>Debug cputemp</string>
+			<key>uniqueIdentifier</key>
+			<string>FA1F43C2-01FD-47C9-9B46-F4E20680E8A7</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
