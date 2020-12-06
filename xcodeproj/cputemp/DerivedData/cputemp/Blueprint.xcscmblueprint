@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C811D4027C1984A1A95DB958A9B835D1A7291561",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C811D4027C1984A1A95DB958A9B835D1A7291561" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "57E9C54A-1EC8-47D9-A68A-1F81240EA65A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C811D4027C1984A1A95DB958A9B835D1A7291561" : "readcputempmac\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "cputemp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "xcodeproj\/cputemp\/cputemp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zac-towbes\/mac_cpu_temp_checker.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C811D4027C1984A1A95DB958A9B835D1A7291561"
+    }
+  ]
+}
